@@ -1,7 +1,6 @@
-let nazwa = document.getElementById("nazwa-id");
+let nazwa = document.getElementById("p#opis");
 let przycisk = document.querySelector('button');
-function fu () {    
-    let tekst = document.querySelector('p');
+function fun () {    
     tekst.textContent="troche tekstu";
 }
-przycisk.onclick = fun()
+przycisk.onclick = fun
